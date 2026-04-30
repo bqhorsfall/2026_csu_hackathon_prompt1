@@ -277,7 +277,13 @@ DATA_PLAN.md                   full data acquisition plan and source rationale
 
 Built for the **USDA APHIS PPQ × CSU Hackathon 2026, Prompt 1**.
 
+- **Alex Woods**
+
 - **Blaise Horsfall**
+
+- **Kian Jiang**
+
+- **Hayley Smith**
 
 ---
 
