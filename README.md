@@ -277,11 +277,8 @@ DATA_PLAN.md                   full data acquisition plan and source rationale
 Built collaboratively for the **CSU Geospatial AI Hackathon 2026**. Contributions span data engineering, foundation-model fine-tuning, and the Streamlit dashboard.
 
 - **Alex Woods**
-
 - **Blaise Horsfall**
-
 - **Kian Jiang**
-
 - **Hayley Smith**
 
 ---
