@@ -1,4 +1,4 @@
-# 🪰 PESTCAST — Fruit Fly Pathway Risk Dashboard
+# PESTCAST — Fruit Fly Pathway Risk Dashboard
 
 **Dual-frontend intelligence platform for forecasting invasive fruit fly introduction risk into the contiguous United States via foreign air passenger and cargo pathways.**
 
@@ -274,7 +274,7 @@ DATA_PLAN.md                   full data acquisition plan and source rationale
 
 ## Team
 
-Built for the **USDA APHIS PPQ × CSU Hackathon 2026, Prompt 1**.
+Built collaboratively for the **CSU Geospatial AI Hackathon 2026**. Contributions span data engineering, foundation-model fine-tuning, and the Streamlit dashboard.
 
 - **Alex Woods**
 
