@@ -6,7 +6,6 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-analytics%20platform-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Leaflet](https://img.shields.io/badge/Leaflet.js-geospatial%20dashboard-199900?logo=leaflet&logoColor=white)](https://leafletjs.com/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-Poisson%20GLM-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![BTS T-100](https://img.shields.io/badge/Data-BTS%20T--100%202015–2025-blue)](https://www.transtats.bts.gov/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > USDA APHIS PPQ × CSU Hackathon 2026 · Prompt 1 · Six target species · Two complementary front ends · CY2026 forecasts + 90-day operational window.
